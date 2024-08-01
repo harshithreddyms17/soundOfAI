@@ -39,9 +39,9 @@ __Models:__ ResNet152v2, MobileNetV2
 __API Development:__ Visual Studio (FlaskAPI)    
 __Deployment:__ AWS EC2 instance
 ## System Configuration
-Device: Macbook Air
+Device: Macbook Pro
 Processor: M1 silicon chip
-RAM: 8GB
+RAM: 16GB
 
 ## Building the Model
 ### HeartSound Classifier - Model Summary
