@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737319876656",
+    "project_id": "soundofai-c49e5",
+    "storage_bucket": "soundofai-c49e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737319876656:android:ba71daa362cdc3666755f5",
+        "android_client_info": {
+          "package_name": "com.example.sound_of_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737319876656-j2jit4ogskcuhm86f3oejc1s4mfsvoob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmyc9Evthr8CvhEvbhnjbSCEHt0hz9Ta4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737319876656-j2jit4ogskcuhm86f3oejc1s4mfsvoob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
